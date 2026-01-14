@@ -74,9 +74,10 @@ Uber-predictive-traffic-modelling/
 
 ---
 
-## Author
+Author
 
 Mohan Chand Kommalapati
+
 Aspiring Data Scientist | Predictive Analytics Enthusiast
----
+
 
